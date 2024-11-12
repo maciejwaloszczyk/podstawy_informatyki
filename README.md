@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.agh.edu.pl/home/ckim/multimedia/znak_graficzny/znak_bez_nazwy/agh_znk_wbr_rgb_150ppi.jpg" alt="Logo" width="150"/>
   <h1>Projekt zaliczeniowy z Podstaw Informatyki</h1>
-  <h3>Maciej Waloszczyk</h3>
+  <h3>Maciej Waloszczyk<br><h4>Informatyka Techniczna</h4></h3>
   <h5>Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie <br>
   <i>Wydział Inżynierii Metali i Informatyki Przemysłowej</i></h5>
 </div>
