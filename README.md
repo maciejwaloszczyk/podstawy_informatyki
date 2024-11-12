@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Logo" width="150"/>
-  <h1>Projekt Zaliczeniowy z Podstaw Informatyki</h1>
+  <img src="https://www.agh.edu.pl/home/ckim/multimedia/znak_graficzny/znak_bez_nazwy/agh_znk_wbr_rgb_150ppi.jpg" alt="Logo" width="150"/>
+  <h1>Projekt zaliczeniowy z Podstaw Informatyki</h1>
+  <h3>Maciej Waloszczyk</h3>
+  <h5>Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie <br>
+  <i>Wydział Inżynierii Metali i Informatyki Przemysłowej</i></h5>
 </div>
-
-<p align="center">
-  <a href="#sprawozdanie">📄 Sprawozdanie</a> |
-  <a href="#działy">📂 Działy</a>
-</p>
 
 ---
 
@@ -30,5 +28,5 @@ Krótki opis projektu, np. cele, zakres oraz wyzwania związane z realizacją.
 ---
 
 <div align="center">
-  <sub>Wykonane przez [Twoje Imię]</sub>
+  <sub>&copy; Maciej Waloszczyk 2024/2025</sub>
 </div>
