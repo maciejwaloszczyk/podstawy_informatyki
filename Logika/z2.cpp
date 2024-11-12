@@ -1,3 +1,4 @@
+//Maciej Waloszczyk - ITE-1sem WIMiIP 2024
 #include<iostream>
 using namespace std;
 bool negacja(bool p){
