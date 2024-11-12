@@ -1,3 +1,4 @@
+//Maciej Waloszczyk - ITE-1sem WIMiIP 2024
 #include <iostream>
 using namespace std;
 
@@ -20,9 +21,9 @@ int main() {
     for (int i = 0; i < krawedzie; ++i) {
         int u, v;
         cin >> u >> v;
-        macierzSasiedztwa[u][v] = 1;    }
-
-    // Wypisanie macierzy sasiedztwa
+        macierzSasiedztwa[u][v] = 1;
+        //macierzSasiedztwa[v][u] = 1;
+    }
     cout << "Macierz sąsiedztwa:" << endl;
     for (int i = 0; i < wierzcholki; ++i) {
         for (int j = 0; j < wierzcholki; ++j) {
