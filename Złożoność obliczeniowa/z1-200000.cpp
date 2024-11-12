@@ -1,3 +1,4 @@
+//Maciej Waloszczyk - ITE-1sem WIMiIP 2024
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
