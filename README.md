@@ -9,21 +9,24 @@
 ---
 
 ## 📄 Sprawozdanie
-Sprawozdanie z projektu znajduje się w repozytorium [tutaj](link_do_sprawozdania).
+Aby otworzyć sprawozdanie, proszę kliknąć [tutaj](pi_sprawozdanie_zaliczenie.pdf).
 
 ## 📂 Działy
-- [Dział 1: Wstęp do programowania](link_do_dzialu1)
-- [Dział 2: Struktury danych](link_do_dzialu2)
-- [Dział 3: Algorytmy](link_do_dzialu3)
-- [Dział 4: Bazy danych](link_do_dzialu4)
+- [Dział 1: Instrukcje warunkowe, pętle, schematy blokowe](Instrukcje%20warunkowe%2C%20pętle%2C%20schematy%20blokowe/)
+- [Dział 2: Funkcje](Funkcje/)
+- [Dział 3: Logika](Logika/)
+- [Dział 4: Struktury danych – Grafy](Struktury%20danych%20–%20Grafy/)
+- [Dział 5: Systemy i reprezentacja liczb](Systemy%20i%20reprezentacja%20liczb/)
+- [Dział 6: Złożoność obliczeniowa](Złożoność%20obliczeniowa/)
+- [Dział 7: Kryptografia](Kryptografia/)
 
 ## 📋 Opis Projektu
-Krótki opis projektu, np. cele, zakres oraz wyzwania związane z realizacją.
+Zadania do zaliczenia w ramach przedmiotu **Podstawy Informatyki**.
 
 ## 🛠 Technologie
-- **Python** - język programowania
+- **C++** - język programowania
 - **GitHub** - zarządzanie wersjami kodu
-- **Markdown** - dokumentacja projektu
+- **Markdown**, **LaTeX** - dokumentacja projektu
 
 ---
 
