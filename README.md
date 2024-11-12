@@ -25,7 +25,7 @@ Zadania do zaliczenia w ramach przedmiotu **Podstawy Informatyki**.
 
 ## 🛠 Technologie
 - **C++** - język programowania
-- **GitHub** - zarządzanie wersjami kodu
+- **GitHub** - udostępnienie kodu źródłowego
 - **Markdown**, **LaTeX** - dokumentacja projektu
 
 ---
